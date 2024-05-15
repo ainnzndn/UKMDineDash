@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "384744368790",
+    "firebase_url": "https://ukmdine-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ukmdine",
+    "storage_bucket": "ukmdine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384744368790:android:190c668a9d224d4cb6b0b7",
+        "android_client_info": {
+          "package_name": "com.examples.ukmdinedash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0kqVZzI55pAbE2KReAaB8rvK6KP2wyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UKMDineDash" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">#FF6A4700</item>
+        <item name="colorSecondary">#FAE8C5</item>
+        <item name="android:textColor">#535353</item>
+        <!-- You can also customize other theme attributes here if needed -->
+    </style>
+</resources>
